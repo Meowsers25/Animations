@@ -1,0 +1,19 @@
+.box {
+    height: 300px;
+    width: 300px;
+    background: blue;
+    position: relative;
+    /* left: 300px;
+    top: 300px; */
+}
+
+p.obey {
+    font-family: 'Anton', sans-serif;
+    font-size: 45px;
+    letter-spacing: 3px;
+    background: red;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    display: none;
+}
