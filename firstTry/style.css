@@ -1,8 +1,10 @@
 .box {
     height: 300px;
     width: 300px;
-    background: blue;
+    background-color: transparent;
     position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
     /* left: 300px;
     top: 300px; */
 }
