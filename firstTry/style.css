@@ -1,3 +1,7 @@
+body {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyAvzXGZB9VQCE6vvV2oYBx_v5z9EssRq21nRTwtw8Ij9CWcm-');
+}
+
 .box {
     height: 300px;
     width: 300px;
@@ -5,6 +9,9 @@
     position: relative;
     background-repeat: no-repeat;
     background-size: cover;
+    padding-top: 35px;
+    background-position: 50% 50%;
+    
     /* left: 300px;
     top: 300px; */
 }
@@ -18,4 +25,14 @@ p.obey {
     color: white;
     text-align: center;
     display: none;
+    
+}
+
+.button {
+   height: 35px !important;
+   width: 55px !important;
+   color: white;
+   background: black;
+   display: block;
+   float: right;
 }
