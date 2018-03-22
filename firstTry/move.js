@@ -16,5 +16,8 @@ $(document).ready(function() {
         $(".obey").animate ({
             'marginTop' : '+=470px'
         }, (4000));
+        // $(".obey").css ({
+        //     'letter-spacing': '10px'
+        // }, (2000));
     });
 });

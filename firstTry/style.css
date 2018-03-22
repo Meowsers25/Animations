@@ -11,7 +11,7 @@ body {
     background-size: cover;
     padding-top: 35px;
     background-position: 50% 50%;
-    
+    /* letter-spacing: -4px; */
     /* left: 300px;
     top: 300px; */
 }
@@ -19,13 +19,12 @@ body {
 p.obey {
     font-family: 'Anton', sans-serif;
     font-size: 45px;
-    letter-spacing: 3px;
     background: red;
     padding: 10px;
     color: white;
     text-align: center;
     display: none;
-    
+    /* letter-spacing: normal; */
 }
 
 .button {
